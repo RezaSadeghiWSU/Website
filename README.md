@@ -1,8 +1,8 @@
 # The official website of Reza Sadeghi
 
-My email: reza@knoesis.org
+My email: sadeghi.2@wright.edu; reza@knoesis.org
 
-The URL: http://knoesis.org/Reza
+The URL: http://knoesis.org/Reza; https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sadeghi.2/
 
 Designed and implemented by Reza Sadeghi
 
