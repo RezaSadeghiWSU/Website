@@ -2,7 +2,7 @@
 
 My email: sadeghi.2@wright.edu; reza@knoesis.org
 
-The URL: http://knoesis.org/Reza; https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sadeghi.2/
+The URLs: http://knoesis.org/Reza; https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sadeghi.2/
 
 Designed and implemented by Reza Sadeghi
 
