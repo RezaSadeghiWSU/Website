@@ -1,6 +1,6 @@
 # The official website of Reza Sadeghi
 
-My email: sadeghi.2@wright.edu; reza@knoesis.org; reza.sadeghi@imamreza.ac.ir
+My emails: sadeghi.2@wright.edu; reza@knoesis.org; reza.sadeghi@imamreza.ac.ir
 
 The URLs: http://knoesis.org/Reza; https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sadeghi.2/
 
