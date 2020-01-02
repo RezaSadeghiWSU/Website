@@ -8,4 +8,5 @@ Designed and implemented by Reza Sadeghi
 
 Affiliation:
 Graduate Research Assistant, Data Science for Healthcare Lab, Wright State University
-Academic outreach officer of Biomedical Research and Technology Association (BMRTA)
+
+Research Trainee, Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, Harvard Medical School
