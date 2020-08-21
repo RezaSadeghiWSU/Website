@@ -6,8 +6,11 @@ The URLs: https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sade
 
 Designed and implemented by Reza Sadeghi
 
+
 Affiliation:
 
 Visiting Assistant Professor
+
 Electrical & Computer Engineering and Computer Science Department
+
 University of New Haven, West Haven, CT, USA
