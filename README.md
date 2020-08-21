@@ -1,6 +1,6 @@
 # The official website of Reza Sadeghi
 
-My emails: rsadeghi@bwh.harvard.edu; sadeghi.2@wright.edu; reza@knoesis.org; reza.sadeghi@imamreza.ac.ir
+My emails: rsadeghi@newhaven.edu; sadeghi.2@wright.edu; rsadeghi@bwh.harvard.edu; reza@knoesis.org; reza.sadeghi@imamreza.ac.ir
 
 The URLs: https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sadeghi.2/; http://knoesis.org/Reza
 
@@ -8,6 +8,6 @@ Designed and implemented by Reza Sadeghi
 
 Affiliation:
 
-Graduate Research Assistant, Data Science for Healthcare Lab, Wright State University
-
-Research Trainee, Division of Sleep and Circadian Disorders, Brigham and Women's Hospital, Harvard Medical School
+Visiting Assistant Professor
+Electrical & Computer Engineering and Computer Science Department
+University of New Haven, West Haven, CT, USA
