@@ -16,7 +16,7 @@ Electrical & Computer Engineering and Computer Science Department
 University of New Haven, West Haven, CT, USA
 
 
-**Future Affiliation:
+# Future Affiliation:
 
 Assistant Professor of Computer Science
 
