@@ -1,6 +1,7 @@
 # The official website of Reza Sadeghi
 
-My emails: sadeghir@sacredheart.edu; rsadeghi@newhaven.edu; sadeghi.2@wright.edu; rsadeghi@bwh.harvard.edu; reza@knoesis.org; reza.sadeghi@imamreza.ac.ir
+<!--- My emails: sadeghir@sacredheart.edu; rsadeghi@newhaven.edu; sadeghi.2@wright.edu; rsadeghi@bwh.harvard.edu; reza@knoesis.org; reza.sadeghi@imamreza.ac.ir --->
+My email: sadeghi.2@wright.edu
 
 The URLs: https://rezasadeghiwsu.github.io/Website/; http://www.wright.edu/~sadeghi.2/; http://knoesis.org/Reza
 
