@@ -12,6 +12,8 @@ Designed and implemented by Reza Sadeghi
 
 Current Affiliation:
 
+Director of Public Opinion Analytics, Marist Institute for Public Opinion (MIPO)
+
 Assistant Professor of Computer Science
 
 School of Computer Science and Mathematics
