@@ -18,7 +18,9 @@ Assistant Professor of Computer Science
 
 School of Computer Science and Mathematics
 
-Marist College, 3399 North Road, Poughkeepsie, NY 12601
+Marist University, 3399 North Road, Poughkeepsie, NY 12601
+
+<!-- Previous current-affiliation wording: Marist College, 3399 North Road, Poughkeepsie, NY 12601 -->
 
 
 <!---
