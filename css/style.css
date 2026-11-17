@@ -213,3 +213,20 @@ header img{
   background: black;
   color: white;
 }
+
+/* Mobile section chooser: stays available while scrolling; no JavaScript required. */
+.mobile-section-menu { display: none; }
+@media (max-width: 800px) {
+  .mobile-section-menu { display: block; position: sticky; top: 0; z-index: 1000; background: #fff; border-bottom: 1px solid #bbb; padding: 10px 5%; }
+  .mobile-section-menu summary { cursor: pointer; font-weight: bold; color: rgb(21,78,170); padding: 7px 0; }
+  .mobile-section-menu[open] ul { max-height: 60vh; overflow-y: auto; list-style: none; margin: 0; padding: 4px 0; }
+  .mobile-section-menu li { margin: 0; border-bottom: 1px solid #eee; }
+  .mobile-section-menu a { display: block; padding: 10px 8px; color: rgb(68,68,68); }
+  .mobile-section-menu a:focus-visible { outline: 2px solid rgb(21,78,170); }
+  #rest { float: none; width: 100%; }
+  .container { overflow-wrap: anywhere; }
+}
+@media (max-width: 600px) {
+  /* Previous rule used padding-right: 1000px, which caused horizontal overflow. */
+  header img { padding-right: 0; max-width: 100%; height: auto; }
+}
